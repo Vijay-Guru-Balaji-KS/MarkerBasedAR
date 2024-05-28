@@ -24,7 +24,6 @@ This repository contains a project focused on marker-based augmented reality usi
 
 Feel free to contribute to the project by providing feedback, suggesting improvements, or adding new features. Happy augmenting! 🚀
 
-
 ## Contributing
 
 Feel free to contribute to the project by opening issues or creating pull requests. Follow the guidelines outlined in [CONTRIBUTING.md].
