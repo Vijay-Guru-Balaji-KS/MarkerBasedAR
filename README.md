@@ -20,7 +20,7 @@ This repository contains a project focused on marker-based augmented reality usi
 - No specific controls are required as the application operates based on marker detection and camera interaction.
 
 ## Screenshots
-![Screenshot 1](ScreenShots/Screenshot 2024-05-28 205739.png)
+![Screenshot 1](ScreenShots/P1.png)
 
 Feel free to contribute to the project by providing feedback, suggesting improvements, or adding new features. Happy augmenting! 🚀
 
